@@ -6,7 +6,7 @@ theme = 'ncr'
 [params]
   description = 'Ultrarunning, negative splitting, and pacing strategy'
   author = 'Nick Coury'
-  profileImage = '/images/profile.jpg'
+  profileImage = 'images/profile.jpg'
 
 [permalinks]
   posts = '/posts/:slug/'

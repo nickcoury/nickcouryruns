@@ -3,7 +3,7 @@ title: "2021 Desert Solstice Race Report - American 24 Hour Record"
 date: 2022-06-18
 slug: "desert-solstice-2021-race-report"
 description: "Race report from setting the American 24-hour record with 173+ miles at the 2021 Desert Solstice"
-image: "/images/desert-solstice-1.png"
+image: "images/desert-solstice-1.png"
 tags: ["negative split", "negative splitting", "ultras", "ultrarunning", "pacing"]
 aliases:
   - /2022/06/2021-desert-solstice-race-report.html

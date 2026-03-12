@@ -3,7 +3,7 @@ title: "Estimating the Green Line"
 date: 2021-12-25
 slug: "estimating-the-green-line"
 description: "My process for estimating realistic race paces and split strategies"
-image: "/images/estimating-green-line.png"
+image: "images/estimating-green-line.png"
 tags: ["negative split", "negative splitting", "ultras", "ultrarunning", "pacing"]
 aliases:
   - /2021/12/estimating-green-line.html

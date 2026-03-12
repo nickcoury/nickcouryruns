@@ -3,7 +3,7 @@ title: "Negative Splitting Ultras"
 date: 2021-09-30
 slug: "negative-splitting-ultras"
 description: "Why negative splits are actually more powerful at ultra distances than shorter races"
-image: "/images/negative-splitting.png"
+image: "images/negative-splitting.png"
 tags: ["negative split", "negative splitting", "ultras", "ultrarunning", "pacing"]
 aliases:
   - /2021/09/negative-splitting-ultras.html

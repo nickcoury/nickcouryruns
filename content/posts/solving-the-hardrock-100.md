@@ -3,7 +3,7 @@ title: "Solving the Hardrock 100"
 date: 2017-08-11
 slug: "solving-the-hardrock-100"
 description: "Race report from my 2017 Hardrock 100 - a 27:14 finish and 5th place through self-preservation and walking the flats"
-image: "/images/hardrock/hero.webp"
+image: "images/hardrock/hero.webp"
 imageCredit: "Photo Credit: [Myke Hermsmeyer](https://mykehphoto.smugmug.com/)"
 tags: ["ultrarunning", "hardrock", "race report", "pacing"]
 aliases:

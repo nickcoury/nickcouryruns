@@ -3,7 +3,7 @@ title: "You Should Run Tushars: A Photo Essay"
 date: 2018-08-06
 slug: "you-should-run-tushars"
 description: "A photo essay from the Tushars 70k - the Hardrock for everyone else"
-image: "/images/tushars/03.webp"
+image: "images/tushars/03.webp"
 tags: ["ultrarunning", "trailrunning", "mountains", "photo essay"]
 cssClass: "photo-essay"
 aliases:
@@ -25,116 +25,116 @@ July 27th, 2019 at Eagle Point Resort, UT. I'll see you there!
 ---
 
 <div class="photo-row">
-  <img src="/images/tushars/01.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/02.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/01.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/02.webp" alt="Tushars trail" loading="lazy">
 </div>
 
 <div class="photo-single">
-  <img src="/images/tushars/03.webp" alt="Tushars mountain vista" loading="lazy">
+  <img src="images/tushars/03.webp" alt="Tushars mountain vista" loading="lazy">
 </div>
 
 <div class="photo-pano">
-  <img src="/images/tushars/04.webp" alt="Tushars panorama" loading="lazy">
+  <img src="images/tushars/04.webp" alt="Tushars panorama" loading="lazy">
 </div>
 
 <div class="photo-row">
-  <img src="/images/tushars/05.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/06.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/05.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/06.webp" alt="Tushars trail" loading="lazy">
 </div>
 
 <div class="photo-pano">
-  <img src="/images/tushars/07.webp" alt="Tushars panorama" loading="lazy">
+  <img src="images/tushars/07.webp" alt="Tushars panorama" loading="lazy">
 </div>
 
 <div class="photo-row">
-  <img src="/images/tushars/08.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/09.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/08.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/09.webp" alt="Tushars trail" loading="lazy">
 </div>
 
 <div class="photo-row">
-  <img src="/images/tushars/10.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/11.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/10.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/11.webp" alt="Tushars trail" loading="lazy">
 </div>
 
 <div class="photo-pano">
-  <img src="/images/tushars/12.webp" alt="Tushars panorama" loading="lazy">
+  <img src="images/tushars/12.webp" alt="Tushars panorama" loading="lazy">
 </div>
 
 <div class="photo-row">
-  <img src="/images/tushars/13.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/14.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/13.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/14.webp" alt="Tushars trail" loading="lazy">
 </div>
 
 <div class="photo-pano">
-  <img src="/images/tushars/15.webp" alt="Tushars panorama" loading="lazy">
+  <img src="images/tushars/15.webp" alt="Tushars panorama" loading="lazy">
 </div>
 
 <div class="photo-row">
-  <img src="/images/tushars/16.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/17.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/16.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/17.webp" alt="Tushars trail" loading="lazy">
 </div>
 
 <div class="photo-pano">
-  <img src="/images/tushars/18.webp" alt="Tushars panorama" loading="lazy">
+  <img src="images/tushars/18.webp" alt="Tushars panorama" loading="lazy">
 </div>
 
 <div class="photo-row">
-  <img src="/images/tushars/19.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/20.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/19.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/20.webp" alt="Tushars trail" loading="lazy">
 </div>
 
 <div class="photo-single">
-  <img src="/images/tushars/21.webp" alt="Tushars mountain vista" loading="lazy">
+  <img src="images/tushars/21.webp" alt="Tushars mountain vista" loading="lazy">
 </div>
 
 <div class="photo-pano">
-  <img src="/images/tushars/22.webp" alt="Tushars panorama" loading="lazy">
+  <img src="images/tushars/22.webp" alt="Tushars panorama" loading="lazy">
 </div>
 
 <div class="photo-single">
-  <img src="/images/tushars/23.webp" alt="Tushars mountain vista" loading="lazy">
+  <img src="images/tushars/23.webp" alt="Tushars mountain vista" loading="lazy">
 </div>
 
 <div class="photo-row">
-  <img src="/images/tushars/24.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/25.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/24.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/25.webp" alt="Tushars trail" loading="lazy">
 </div>
 
 <div class="photo-pano">
-  <img src="/images/tushars/26.webp" alt="Tushars panorama" loading="lazy">
+  <img src="images/tushars/26.webp" alt="Tushars panorama" loading="lazy">
 </div>
 
 <div class="photo-row">
-  <img src="/images/tushars/27.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/28.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/27.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/28.webp" alt="Tushars trail" loading="lazy">
 </div>
 
 <div class="photo-row">
-  <img src="/images/tushars/29.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/30.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/29.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/30.webp" alt="Tushars trail" loading="lazy">
 </div>
 
 <div class="photo-pano">
-  <img src="/images/tushars/31.webp" alt="Tushars panorama" loading="lazy">
+  <img src="images/tushars/31.webp" alt="Tushars panorama" loading="lazy">
 </div>
 
 <div class="photo-single">
-  <img src="/images/tushars/32.webp" alt="Tushars mountain vista" loading="lazy">
+  <img src="images/tushars/32.webp" alt="Tushars mountain vista" loading="lazy">
 </div>
 
 <div class="photo-pano">
-  <img src="/images/tushars/33.webp" alt="Tushars panorama" loading="lazy">
+  <img src="images/tushars/33.webp" alt="Tushars panorama" loading="lazy">
 </div>
 
 <div class="photo-pano">
-  <img src="/images/tushars/34.webp" alt="Tushars panorama" loading="lazy">
+  <img src="images/tushars/34.webp" alt="Tushars panorama" loading="lazy">
 </div>
 
 <div class="photo-single">
-  <img src="/images/tushars/35.webp" alt="Tushars mountain vista" loading="lazy">
+  <img src="images/tushars/35.webp" alt="Tushars mountain vista" loading="lazy">
 </div>
 
 <div class="photo-row">
-  <img src="/images/tushars/36.webp" alt="Tushars trail" loading="lazy">
-  <img src="/images/tushars/37.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/36.webp" alt="Tushars trail" loading="lazy">
+  <img src="images/tushars/37.webp" alt="Tushars trail" loading="lazy">
 </div>

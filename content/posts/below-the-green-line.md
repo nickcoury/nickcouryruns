@@ -3,7 +3,7 @@ title: "Below the Green Line"
 date: 2021-12-04
 slug: "below-the-green-line"
 description: "How I think about negative split execution using the green line framework"
-image: "/images/green-line.png"
+image: "images/green-line.png"
 tags: ["negative split", "negative splitting", "ultras", "ultrarunning", "pacing"]
 aliases:
   - /2021/12/below-green-line.html
