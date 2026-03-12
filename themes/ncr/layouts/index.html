@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-content">
+    <img src="{{ .Site.Params.profileImage }}" alt="{{ .Site.Params.author }}" class="hero-avatar">
+    <h1>{{ .Site.Title }}</h1>
+    <p class="hero-tagline">{{ .Site.Params.description }}</p>
+  </div>
+</section>
+
+<section class="post-list">
+  {{ range (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+  {{ $post := . }}
+  <article class="post-card">
+    {{ with .Params.image }}
+    <a href="{{ $post.RelPermalink }}" class="post-card-image">
+      <img src="{{ . }}" alt="{{ $post.Title }}" loading="lazy">
+    </a>
+    {{ end }}
+    <div class="post-card-content">
+      <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p class="post-excerpt">{{ .Summary }}</p>
+      <a href="{{ .RelPermalink }}" class="read-more">Read more &rarr;</a>
+    </div>
+  </article>
+  {{ end }}
+</section>
+{{ end }}

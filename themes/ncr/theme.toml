@@ -1,0 +1,6 @@
+name = "NCR"
+license = "MIT"
+description = "Custom theme for Nick Coury Runs"
+
+[author]
+  name = "Nick Coury"

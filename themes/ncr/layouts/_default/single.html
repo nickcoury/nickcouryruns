@@ -1,0 +1,37 @@
+{{ define "main" }}
+<article class="post">
+  <header class="post-header">
+    <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="post-subtitle">{{ . }}</p>{{ end }}
+  </header>
+
+  {{ with .Params.image }}
+  <figure class="post-hero">
+    <img src="{{ . }}" alt="{{ $.Title }}">
+    {{ with $.Params.imageCredit }}<figcaption>{{ . }}</figcaption>{{ end }}
+  </figure>
+  {{ end }}
+
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.tags }}
+  <div class="post-tags">
+    {{ range . }}
+    <span class="tag">{{ . }}</span>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  <div class="post-nav">
+    {{ with .PrevInSection }}
+    <a href="{{ .RelPermalink }}" class="post-nav-prev">&larr; {{ .Title }}</a>
+    {{ end }}
+    {{ with .NextInSection }}
+    <a href="{{ .RelPermalink }}" class="post-nav-next">{{ .Title }} &rarr;</a>
+    {{ end }}
+  </div>
+</article>
+{{ end }}
