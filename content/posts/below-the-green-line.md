@@ -95,4 +95,4 @@ A final word about fully leveraging green line racing involves aid stations. Bec
 
 How do I estimate the finish time and pacing strategy, especially when the race isn't flat and controlled? Stay tuned for [Part 3: Estimating the Green Line](/posts/estimating-the-green-line/) where I'll detail my process.
 
-*See also: [Solving the Hardrock 100](https://medium.com/@thenickcoury/solving-the-hardrock-100-1dc96974155e) on Medium.*
+*See also: [Solving the Hardrock 100](/posts/solving-the-hardrock-100/)*
