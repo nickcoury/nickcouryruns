@@ -238,10 +238,11 @@ img { max-width: 100%; height: auto; display: block; }
 .post-content > p > img,
 .post-content > figure {
   max-width: min(var(--max-width-wide), calc(100vw - 3rem));
-  width: fit-content;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .post-content > figure {
