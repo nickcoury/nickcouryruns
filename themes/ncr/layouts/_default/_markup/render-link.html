@@ -1,0 +1,1 @@
+<a href="{{ .Destination | strings.TrimPrefix "/" }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>

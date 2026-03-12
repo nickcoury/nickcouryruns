@@ -41,6 +41,8 @@ There isn't an exact definition of what the line is, but it typically stays flat
 
 The dotted yellow line shows the yellow line race execution, with it's red line shown in red and yellow stripes. It allows for some slowdown, but propels the runner up the leaderboard later in the race relative to red line racers. Notice the red line doesn't dip nearly as quickly this time, and doesn't crash as hard allowing a bigger and faster kick.
 
+![Yellow line strategy](/images/gl-chart-7.png)
+
 ## Below the Green Line
 
 One of my biggest breakthroughs came when I defined the green line. The green line is the pace that can be maintained from the current distance in the race to the end of the race if everything goes perfectly. The green line strategy is simple - stay a bit below the green line from start to finish.
