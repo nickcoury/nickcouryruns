@@ -230,19 +230,20 @@ img { max-width: 100%; height: auto; display: block; }
 
 .post-content img {
   border-radius: 6px;
-  margin: 1.5rem auto;
+  margin: 1.5rem 0;
   cursor: zoom-in;
 }
 
-/* Allow images and figures to break out of the post column */
+/* Center images and allow them to break out of the post column */
 .post-content > p:has(> img) {
   display: flex;
   justify-content: center;
-  overflow: visible;
+  margin-bottom: 0;
 }
 
 .post-content > p > img {
   max-width: min(var(--max-width-wide), calc(100vw - 3rem));
+  margin: 1.5rem 0;
 }
 
 .post-content > figure {
