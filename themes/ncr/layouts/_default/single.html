@@ -9,7 +9,7 @@
   {{ with .Params.image }}
   <figure class="post-hero">
     <img src="{{ . }}" alt="{{ $.Title }}">
-    {{ with $.Params.imageCredit }}<figcaption>{{ . }}</figcaption>{{ end }}
+    {{ with $.Params.imageCredit }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
   </figure>
   {{ end }}
 
