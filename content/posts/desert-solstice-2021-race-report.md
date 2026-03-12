@@ -91,3 +91,10 @@ I brace for the crash as others rush in with a chair to make sure I don't collap
 If this ending sounds too good to be true, it turns out it was. The aftermath wasn't so pretty. 6 hours after the race when I woke up from a nap, I needed crutches to get around as my leg refused to take any weight. In the 6 months since I have been up and down with a number of chronic and acute issues both from the race and from the 5 years of continuous pushing leading up to it. I expect that this whole year might be a wash and involve a lot of ups and downs, DNSes, and focused recovery to pay back the damage I did.
 
 I was immediately tempted to focus on "what's next" and what races or records I could go try to smash. But I've stopped myself long enough to appreciate this accomplishment that was way too big to ever be a realistic goal. I've been deliberate about not jumping on the hedonic treadmill and normalizing it. If I never do anything this big again, and even if I never reach the same level of fitness, it will be enough. What's important now is getting healthy so that I can continue to enjoy a lifetime of running.
+
+<figure>
+
+![Nick Coury post-race](/images/desert-solstice-3.png)
+
+<figcaption>Photo courtesy Melissa Ruse</figcaption>
+</figure>

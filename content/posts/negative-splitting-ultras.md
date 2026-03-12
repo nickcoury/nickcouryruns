@@ -59,11 +59,15 @@ The next key is to understand that none of this is binary. It's a sliding scale 
 
 I will say, I'm not yet convinced even or negative splits are **optimal for time**. I would actually say most of my negative split races have been slower than optimal, but **by design**. For the sake of discussion, let's say the optimal strategy is dead even splits. Then, for every finish time slower than that, there's both a positive and negative strategy to achieve it. In the chart below, the line represents the same race effort with different pace strategies. In this case, we're representing a maximum race effort.
 
-![Pace strategy chart](/images/ns-chart-2.png)
+![Pace strategy chart - maximum effort](/images/ns-chart-1.png)
 
 We don't want to run a maximum race effort every time, so we can also shift the entire curve to be slower.
 
+![Pace strategy chart - shifted curves](/images/ns-chart-2.png)
+
 The slower the race, the lower the damage and faster the recovery. A negative split with the same damage & risk profile as a positive split will be much faster time wise. A negative split with the same time as a positive split will have much less damage and risk.
+
+![Pace strategy chart - damage and risk tradeoffs](/images/ns-chart-3.png)
 
 Putting all of these together, it becomes obvious that moving a positive split effort to the negative split effort with the same finish time will create less damage, have less risk, and bring faster recovery.
 
@@ -72,6 +76,8 @@ But there's a less obvious and more important insight in this way of planning. A
 At the positive end of the curve, being wrong is catastrophic. The second half being slower means we're already in the red, and we'll only become more positive with more damage and cascading failures as we push to hold on. But with a negative split, we can dynamically adjust along the split and time dimensions as we please. We can stay on the same effort line and run a more even or positive split to maintain quick recovery. Or we can choose to push harder to a higher effort line to achieve the intended time at the cost of recovery.
 
 In the worst case with negative splitting, things are not that bad. With positive splits, all options tend to be bad.
+
+![Risk comparison chart](/images/ns-chart-4.png)
 
 In practice, I've found a 3% negative split\* to be a sweet spot of keeping the time fast while really getting all the benefits I described. For reference, my recent 13:20 100 mile with a 25 minute negative split hit this perfectly, and I raced a 50k the next weekend without issue.
 

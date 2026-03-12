@@ -31,6 +31,8 @@ The red line strategy isn't to run at the red line pace, as that is clearly unsu
 
 The dotted red line shows a typical red line race execution, with its corresponding "red line" in bold. At the end of the race, the best case is usually just hanging on. This correlates with a lot of pain and damage.
 
+![Red line strategy](/images/gl-chart-6.png)
+
 ## The Yellow Line
 
 The yellow line strategy is the "traditional" smart ultra pacing strategy. Many ultrarunners recognized for their smart pacing use this strategy. I think of it as the "all day cruising pace". It's characterized by starting slower than the lead pack, being patient early on, and consistently passing runners from halfway all the way to the finish.
@@ -61,9 +63,15 @@ All of this together paints the picture I laid out in my original post. Running 
 
 Here's a standalone picture of a green line race. The green line gets faster and faster, and the red line doesn't dip much.
 
+![Green line race](/images/gl-chart-3.png)
+
 Now the yellow line race. We start above a sustainable pace, but not by much. The green line for the race slowly drops until our race pace dips below that in the second half of the race. Now that the slower pace is sustainable, we can ride the green line up late in the race to the finish. The red line drops a bit the first half, but drops more the second half.
 
+![Yellow line race](/images/gl-chart-4.png)
+
 And the red line race, where the initial pace is the farthest above the green line, and the sustainable pace declines throughout the race. The red line drops the most out of any of the races, and ends quite low as we blow up holding on for the end.
+
+![Red line race](/images/gl-chart-5.png)
 
 ## Pushing the Green Line Up
 
