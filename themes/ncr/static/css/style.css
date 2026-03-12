@@ -231,10 +231,25 @@ img { max-width: 100%; height: auto; display: block; }
 .post-content img {
   border-radius: 6px;
   margin: 1.5rem auto;
+  cursor: zoom-in;
 }
 
-.post-content figure {
+/* Allow images and figures to break out of the post column */
+.post-content > p > img,
+.post-content > figure {
+  max-width: min(var(--max-width-wide), calc(100vw - 3rem));
+  width: fit-content;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.post-content > figure {
   margin: 2rem 0;
+}
+
+.post-content > figure img {
+  max-width: 100%;
 }
 
 .post-content figure figcaption {
@@ -317,6 +332,10 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 /* === Photo Essay === */
+.photo-essay.post {
+  max-width: var(--max-width-wide);
+}
+
 .photo-essay .post-content {
   max-width: none;
 }
