@@ -20,7 +20,7 @@ How is that even possible?
 
 ![Walking out of town at start](/images/hardrock/start.webp)
 
-<figcaption>Walking out of town at this year's start. Photo credit: <a href="http://www.sweetmimages.com/">Melissa Ruse</a></figcaption>
+<figcaption>Walking out of town at this year's start. Photo credit: <a href="https://melissarusephotography.com/">Melissa Ruse</a></figcaption>
 </figure>
 
 ## Step 1: Plan
@@ -61,11 +61,11 @@ I approached this year's race with only one goal: to not slow down at the end of
 
 ### The Prologue
 
-As has become a tradition, both my parents and sister are out to crew me this year. My wife is out on a business trip and can't make it back in time for the race, unfortunately. For the third straight year I'm on a Ketogenic diet leading into the race. That combined with [Vespa](http://www.vespapower.com/), a variety of random race foods, and my mom's homemade fruit smoothies have become my secret sauce for rock solid nutrition in 100 milers. I scoured eBay to find a pair of [Adios 2s](https://drive.google.com/open?id=0B6O2jYnMyeP_S1h0Vm9IclNYU0U), the same shoe I wore in 2013.
+As has become a tradition, both my parents and sister are out to crew me this year. My wife is out on a business trip and can't make it back in time for the race, unfortunately. For the third straight year I'm on a Ketogenic diet leading into the race. That combined with [Vespa](http://www.vespapower.com/), a variety of random race foods, and my mom's homemade fruit smoothies have become my secret sauce for rock solid nutrition in 100 milers. I scoured eBay to find a pair of [Adios 2s](https://www.amazon.co.uk/ADIDAS-adiZero-Adios-Running-Shoes/dp/B008AVML6M), the same shoe I wore in 2013.
 
 ### The Start
 
-Like every other year, I start the race walking to set the right expectations. The climb over Little Giant goes quickly, and I cruise down to Cunningham. I feel a bit stiff and rusty, but that's expected early in a 100. Up and over Stony Pass, then on to Buffalo Boy Ridge where [James Bonnett](http://www.ultrazbonnett.com/) catches up to me. His hip is bothering him a bit, and I comment how my knees are still feeling rickety. He's hoping we just need time to get things flowing, and I joke I'm on the 50 mile warm up plan. We separate a bit on the way down, but catch up again at Maggie. The ten mile stretch from there until we descend into Sherman is by far the "flattest" continuous stretch of the course, and several runners pass us at our pace more fitting of a Sunday stroll. No sense of urgency, no feeling of forward momentum, just a loafing walk down a dirt trail.
+Like every other year, I start the race walking to set the right expectations. The climb over Little Giant goes quickly, and I cruise down to Cunningham. I feel a bit stiff and rusty, but that's expected early in a 100. Up and over Stony Pass, then on to Buffalo Boy Ridge where [James Bonnett](https://www.mcmillanrunning.com/product/bonnett/) catches up to me. His hip is bothering him a bit, and I comment how my knees are still feeling rickety. He's hoping we just need time to get things flowing, and I joke I'm on the 50 mile warm up plan. We separate a bit on the way down, but catch up again at Maggie. The ten mile stretch from there until we descend into Sherman is by far the "flattest" continuous stretch of the course, and several runners pass us at our pace more fitting of a Sunday stroll. No sense of urgency, no feeling of forward momentum, just a loafing walk down a dirt trail.
 
 Just after the Pole Creek aid Jamil caught us, and we start chatting away. All three of us haven't run a race together in I don't know how long, but all of a sudden it clicks and the Arizona gang is back together. "You're on the walking plan, huh Nick?" Jamil asks. "Yeah, you're welcome to jump on board but this is as fast as I go." The sun is out and beating on us, and we soak it all in. I set the way with the blisteringly slow pace as Jamil snaps clips with his GoPro and James just takes in his first Hardrock. Other runners catch us on the flats, briefly talk with us, get sick of (I'm assuming) our slow pace and shenanigans, then jog on past us.
 
@@ -93,7 +93,7 @@ Hitting the park bridge into the aid station I hear a familiar voice from behind
 
 ### A Snag, and a Stroke of Luck
 
-I quickly grab a new pack from my crew, and head out with [J Lu](https://goo.gl/photos/MEWVFrDAer9K1NqeA) as my wing man. We start chatting as we head up the road. About ten minutes in I go to grab a drink from my pack to find the hose is tucked inside the back. Strange, but whatever. I reach back as I keep moving, unzip the pack and start digging around. Something is shoved in the top, so I pull out a Monster energy can. Again, strange. Then it hits me.
+I quickly grab a new pack from my crew, and head out with [J Lu](https://www.irunfar.com/this-article-contains-profanity-a-profile-of-jlu/justin-lutick) as my wing man. We start chatting as we head up the road. About ten minutes in I go to grab a drink from my pack to find the hose is tucked inside the back. Strange, but whatever. I reach back as I keep moving, unzip the pack and start digging around. Something is shoved in the top, so I pull out a Monster energy can. Again, strange. Then it hits me.
 
 ![facepalm](/images/hardrock/facepalm.gif)
 

@@ -12,6 +12,8 @@ imageCredit: "Photo credit Melissa Ruse"
 
 *This is part 3 in a series about negative splitting. See [Part 1](/posts/negative-splitting-ultras/) on the high level idea and [Part 2](/posts/below-the-green-line/) on the green line.*
 
+![Estimating the Green Line](/images/estimating-green-line.png)
+
 Today we'll explore my process of estimating my green line for a race, and deciding on the actual paces and splits to aim for during a race.
 
 ## Process
@@ -135,7 +137,7 @@ As a reminder, I calculate negative/positive splits with one of these formulas:
 - [Black Canyon 2021](https://docs.google.com/spreadsheets/d/1mJ3-dMr8shz0r-df-4cmDZvg3Qh9t9NR6bCdq_J--XU/edit?usp=sharing)
 - [Javelina Jundred 2020](https://docs.google.com/spreadsheets/d/1kcc24VZMsFy4D10GV-L5bowaLSW_Q9eBcvD0y3V4rjs/edit?usp=sharing)
 - [Run Rabbit Run 2021](https://docs.google.com/spreadsheets/d/1YR0o3T6QqDSPu7vpDM7oguXdotSe9a9yCgFXC3OXcko/edit?usp=sharing)
-- [Desert Solstice 2021](https://docs.google.com/spreadsheets/d/1UhNGTni_kBgfnQ9XFQUOk2aVQxeVGBfSUS2RdDlyrgU/edit?usp=sharing)
+- [Desert Solstice 2021](https://docs.google.com/spreadsheets/d/1UhNGTni_kBgfnQ9XFQUOk2aVQxeYGBfSUS2RdDlyrgU/edit?usp=sharing)
 
 ### Tweak - Trail
 

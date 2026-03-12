@@ -9,6 +9,8 @@ aliases:
   - /2022/06/2021-desert-solstice-race-report.html
 ---
 
+![Desert Solstice](/images/desert-solstice-1.png)
+
 Holy \*\*\*\*. I still can't quite believe I did it. I believed it was possible because I had to, but I didn't really think I could do it.
 
 ---
@@ -29,7 +31,7 @@ After the 2020 race, I couldn't get out of my head that I had been on pace for 1
 
 On the crisp, cool morning of December 11th at 8 AM, I lined up on the bright red track of Central High School with some of the best ultrarunners in the country. The first lap of a 24 hours is always the hardest to pace for me, the combination of energy and tightly packed runners making it easy to start off too fast. At the 200 meter mark I glanced at my watch and saw 0:53, a 7:30 pace. Yikes! I pulled tight to the center of the track and tried to get half of the field to pass me without causing any traffic jams.
 
-My [plan for the race](https://docs.google.com/spreadsheets/d/1UhNGTni_kBgfnQ9XFQUOk2aVQxeVGBfSUS2RdDlyrgU/edit?usp=sharing) was simple. 2:06 for the first 8 hours, then 1 second per lap faster every 4 hours to the finish. Over the years I've gone from struggling with raw boredom of a looped 24 hours to embracing it, using the repetitiveness as a rhythm and mantra to keep myself focused and engaged. This has evolved to a simple approach - put a single "Lap Time" data field large on my watch, click a lap every time I cross the timing mat, and check the time every 100 or 200 meters. This quickly becomes an automatic instinct, and lets me dial in my pace within a second or two automatically without having to stress about or question my pacing.
+My [plan for the race](https://docs.google.com/spreadsheets/d/1UhNGTni_kBgfnQ9XFQUOk2aVQxeYGBfSUS2RdDlyrgU/edit?usp=sharing) was simple. 2:06 for the first 8 hours, then 1 second per lap faster every 4 hours to the finish. Over the years I've gone from struggling with raw boredom of a looped 24 hours to embracing it, using the repetitiveness as a rhythm and mantra to keep myself focused and engaged. This has evolved to a simple approach - put a single "Lap Time" data field large on my watch, click a lap every time I cross the timing mat, and check the time every 100 or 200 meters. This quickly becomes an automatic instinct, and lets me dial in my pace within a second or two automatically without having to stress about or question my pacing.
 
 With that, I had planned for the first 8 hours to mostly be on autopilot, knowing the pace would not be challenging and wanting to save my mental energy for much later in the race. I made comments several times that the real race wasn't going to start until 16 hours, which makes hours 8-16 the "pre-race" and the first 8 hours the "pre-pre-race". My entire focus early on was self-preservation. Though Phoenix is wonderful in December, the direct sun and dry air can still take an unexpected toll that doesn't show up until much later in the race. I used many of my common heat mitigation techniques, especially cooling sleeves soaked with ice water every few minutes. I also employed a new technique that seemed to work well - I brought two Rabbit perforated tees and had my crew freeze one of them at a time in a cooler of ice, then would swap every 30 minutes or so for a weightless ice vest. I also focused on cooling my quads and hamstrings by splashing water on them in hopes they would hold together better than last year.
 
