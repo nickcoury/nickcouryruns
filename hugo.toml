@@ -1,4 +1,4 @@
-baseURL = 'https://nickcoury.github.io/nickcouryruns/'
+baseURL = 'https://www.nickcouryruns.com/'
 languageCode = 'en-us'
 title = 'Nick Coury Runs'
 theme = 'ncr'
