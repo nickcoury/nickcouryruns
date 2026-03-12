@@ -316,6 +316,84 @@ img { max-width: 100%; height: auto; display: block; }
   color: var(--text-muted);
 }
 
+/* === Photo Essay === */
+.photo-essay .post-content {
+  max-width: none;
+}
+
+.photo-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+  margin: 0.5rem 0;
+}
+
+.photo-row img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
+  cursor: zoom-in;
+  margin: 0;
+}
+
+.photo-single {
+  margin: 0.5rem 0;
+}
+
+.photo-single img {
+  width: 100%;
+  border-radius: 4px;
+  cursor: zoom-in;
+  margin: 0;
+}
+
+.photo-pano {
+  margin: 0.5rem -1.5rem;
+}
+
+.photo-pano img {
+  width: 100%;
+  border-radius: 0;
+  cursor: zoom-in;
+  margin: 0;
+}
+
+/* Lightbox overlay for zoom */
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: rgba(0, 0, 0, 0.95);
+  cursor: zoom-out;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.lightbox.active { display: flex; align-items: center; justify-content: center; }
+
+.lightbox img {
+  max-width: 95vw;
+  max-height: 95vh;
+  object-fit: contain;
+  border-radius: 0;
+  margin: auto;
+}
+
+/* For panoramas, allow horizontal scroll in lightbox */
+.lightbox.pano-mode {
+  align-items: center;
+  justify-content: flex-start;
+  overflow-x: auto;
+}
+
+.lightbox.pano-mode img {
+  max-width: none;
+  height: 90vh;
+  width: auto;
+}
+
 /* === Responsive === */
 @media (max-width: 768px) {
   html { font-size: 16px; }
@@ -340,4 +418,5 @@ img { max-width: 100%; height: auto; display: block; }
 @media (max-width: 480px) {
   .site-header .container { flex-direction: column; gap: 0.75rem; }
   .hero-avatar { width: 80px; height: 80px; }
+  .photo-pano { margin: 0.5rem -1.25rem; }
 }
